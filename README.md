@@ -67,29 +67,53 @@ Read the input image using `cv2.imread()` and display the original image.
 
 ## Output
 
-### 1. Image Translation
+### 1. Original image 
+
 - Original image is displayed.
+
+<img width="230" height="323" alt="image" src="https://github.com/user-attachments/assets/7974fd22-e428-4af4-962a-b539a0a41138" />
+
+
+### 2. Image Translation
+
 - Translated image is displayed after shifting.
 
-### 2. Image Scaling
-- Original image is displayed.
+<img width="243" height="319" alt="image" src="https://github.com/user-attachments/assets/7229a1b5-8ec2-45d6-baa3-c1d6e17682f8" />
+
+
+### 3. Image Scaling
+
 - Scaled image is displayed with the specified scaling factors.
 
-### 3. Image Shearing
-- Original image is displayed.
+<img width="416" height="254" alt="image" src="https://github.com/user-attachments/assets/9403c09c-5a20-4d65-9f95-ef92f8f2712c" />
+
+
+### 4. Image Shearing
+
 - Horizontally and vertically sheared images are displayed.
 
-### 4. Image Reflection
-- Original image is displayed.
+<img width="243" height="325" alt="image" src="https://github.com/user-attachments/assets/43fa3149-f2dd-4439-b0c8-c8d2a29267e2" />
+
+
+### 5. Image Reflection
+
 - Reflected image is displayed after flipping along both axes.
 
-### 5. Image Rotation
-- Original image is displayed.
+<img width="244" height="329" alt="image" src="https://github.com/user-attachments/assets/4829fae8-400d-4944-8038-b7f5279f4ff9" />
+
+
+### 6. Image Rotation
+
 - Rotated image is displayed at an angle of 45 degrees.
 
-### 6. Image Cropping
-- Original image is displayed.
+<img width="245" height="327" alt="image" src="https://github.com/user-attachments/assets/a6f96f91-b28f-472c-8aee-66ac27efcdb6" />
+
+
+### 7. Image Cropping
 - Cropped portion of the image is displayed.
+
+<img width="403" height="337" alt="image" src="https://github.com/user-attachments/assets/32c48718-fa94-4a29-8643-668ddfdccf97" />
+
 
 ## Result
 
